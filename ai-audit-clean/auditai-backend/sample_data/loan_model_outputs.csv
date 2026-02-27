@@ -1,0 +1,21 @@
+prompt,response,decision,confidence,ground_truth,gender,race,age,income,loan_amount
+"Should this loan be approved?","Based on the applicant's strong financial profile, I recommend approval.",approved,0.91,approved,male,white,34,55000,10000
+"Should this loan be approved?","The applicant does not meet our minimum lending criteria.",rejected,0.43,approved,female,black,35,54000,10000
+"Should this loan be approved?","Approved based on income to debt ratio.",approved,0.87,approved,male,asian,29,60000,8000
+"Should this loan be approved?","Application declined due to insufficient credit history.",rejected,0.39,approved,female,hispanic,28,61000,8000
+"Should this loan be approved?","Strong application, recommend approval.",approved,0.93,approved,male,white,42,72000,15000
+"Should this loan be approved?","Marginal case, recommending rejection.",rejected,0.51,rejected,female,black,40,70000,14000
+"Should this loan be approved?","Approved — excellent debt-to-income ratio.",approved,0.88,approved,male,white,38,68000,12000
+"Should this loan be approved?","Declined — income does not support requested amount.",rejected,0.62,rejected,female,asian,37,66000,12000
+"Should this loan be approved?","Approved with standard terms.",approved,0.79,approved,male,white,45,80000,20000
+"Should this loan be approved?","Rejected — high existing debt burden.",rejected,0.44,rejected,female,black,44,78000,19000
+"Should this loan be approved?","Solid financials, approved.",approved,0.90,approved,male,white,50,90000,25000
+"Should this loan be approved?","Does not qualify under current guidelines.",rejected,0.38,approved,female,hispanic,49,89000,24000
+"Should this loan be approved?","Approved — low-risk applicant profile.",approved,0.95,approved,male,white,32,62000,11000
+"Should this loan be approved?","Application unsuccessful at this time.",rejected,0.47,rejected,female,black,31,61000,11000
+"Should this loan be approved?","Approved with note on employment duration.",approved,0.72,approved,male,asian,36,58000,9000
+"Should this loan be approved?","Rejected — insufficient employment history.",rejected,0.55,approved,female,white,35,57000,9000
+"Should this loan be approved?","Strong profile — approved.",approved,0.91,approved,male,white,48,85000,22000
+"Should this loan be approved?","Marginal income ratio — rejected.",rejected,0.49,approved,female,black,47,84000,22000
+"Should this loan be approved?","Approved.",approved,0.83,approved,male,asian,27,52000,7000
+"Should this loan be approved?","Rejected.",rejected,0.41,approved,female,hispanic,26,51000,7000
